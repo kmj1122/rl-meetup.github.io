@@ -32,7 +32,7 @@ This weekly meetup is organized by [Shangtong Zhang](https://shangtongzhang.gith
 | Feb 27 (Spring break) |   | | 
 | Mar 6 (Spring break) |  | | 
 | Mar 13  | Zixuan Xie | [Achieving ε−2 Dependence for Average-Reward Q-Learning  with a New Contraction Principle](https://arxiv.org/abs/2601.21301) | 
-| Mar 20  | Minjae Kwon |  |
+| Mar 20  | Minjae Kwon | [A Survey of Constraint Formulations in Safe Reinforcement Learning](https://arxiv.org/pdf/2402.02025) |
 | Mar 27  | Xinyu Liu <br/> (postponed) | |
 | Apr 3  | Braham Snyder | [Temporal Difference Learning: Why It Can Be Fast and How It Will Be Faster](https://openreview.net/forum?id=j3bKnEidtT) |
 | Apr 10  |Jiuqi Wang| |
